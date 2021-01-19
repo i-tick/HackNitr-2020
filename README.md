@@ -23,6 +23,6 @@ Amidst the pandemic, we proposed a solution to not let this multiply itself rapi
 - Aitik Dandapat
 - Aktar Rajja Khan
 - Rittik Biswal
-- Akash Pattanayak
+- Altamas Bari
 
 
