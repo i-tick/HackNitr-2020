@@ -9,6 +9,17 @@ Amidst the pandemic, we proposed a solution to not let this multiply itself rapi
 - It was quite difficulty to integrate the band with the android device for location purpose and its activity with the gsm module.
 - collection of a trusted Dataset for newly epidemic disease.
 
+# Application Preview
+<table>
+<tr>
+    <td><img src="https://assets.devfolio.co/hackathons/d80d930e94ea4331820c993b019fb0fa/projects/ff63fac5e87b4ecc950ba0b7ca5defd7/piczf5q8lw53.jpeg" width="255" height="400"> </td>
+    <td><img src="https://assets.devfolio.co/hackathons/d80d930e94ea4331820c993b019fb0fa/projects/ff63fac5e87b4ecc950ba0b7ca5defd7/pict509ywiut.jpeg" width="255" height="400"> </td>
+    <td><img src="https://assets.devfolio.co/hackathons/d80d930e94ea4331820c993b019fb0fa/projects/ff63fac5e87b4ecc950ba0b7ca5defd7/pic4egqgssag.jpeg" width="255" height="400"> </td>
+    <td><img src="https://assets.devfolio.co/hackathons/d80d930e94ea4331820c993b019fb0fa/projects/ff63fac5e87b4ecc950ba0b7ca5defd7/picly213vh14.jpeg" width="255" height="400"> </td>
+    <td><img src="https://assets.devfolio.co/hackathons/d80d930e94ea4331820c993b019fb0fa/projects/ff63fac5e87b4ecc950ba0b7ca5defd7/pic1k0z7b33q.jpeg" width="255" height="400"> </td>
+</tr>
+</table>
+
 # Technologies Used :
 - Android Studio
 - IBM Watson
